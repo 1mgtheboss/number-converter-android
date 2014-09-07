@@ -1,4 +1,4 @@
 number-converter-android
 ========================
 
-Number Converter
+© 2014 Manojit Ghosh
